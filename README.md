@@ -17,15 +17,15 @@ Storia della parola latina *spectrum* da Cicerone a Newton, attraverso diciasset
 
 ## The interactive chart / La mappa interattiva
 
-The chart maps the word *spectrum* along two axes: time (horizontal) and the natural–supernatural polarity (vertical). Each node represents a primary source. The vertical position reflects the meaning that *that specific text* assigns to the word — not the cultural climate of the period.
+The chart maps the word *spectrum* along two axes: time (horizontal) and the natural–supernatural polarity (vertical). Each node represents a primary source. The vertical position reflects the meaning that *that specific text* assigns to the word.
 
-Click any node to open a detail panel with the source, date, and a note on why the node is positioned where it is.
+Click any node to open a detail panel with the source, date, and a short note.
 
 ---
 
 La mappa posiziona la parola *spectrum* su due assi: il tempo (orizzontale) e la polarità naturale–soprannaturale (verticale). Ogni nodo rappresenta una fonte primaria. La posizione verticale riflette il significato che *quel testo specifico* attribuisce alla parola — non il clima culturale dell'epoca.
 
-Clicca su ogni nodo per aprire un pannello con la fonte, la data e una nota sul criterio di posizionamento.
+Clicca su ogni nodo per aprire un pannello con la fonte, la data e una breve nota.
 
 ---
 
